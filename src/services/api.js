@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: 'http://localhost:3001'
+    baseURL: 'https://rhhawk.github.io/server-proj-react/'
 })
 
 export default api
